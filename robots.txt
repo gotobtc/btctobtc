@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gotobtc.github.io/btctobtc/sitemap.xml
